@@ -28,23 +28,27 @@
 
 ## ソフトウェア
  - [center]
- (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/center)　: 出力された情報に応じて各出力ポートから情報を出力する。
-
+ (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/center)　
+ : 出力された情報に応じて各出力ポートから情報を出力する。
  
  - [ultrasound]
- (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/ultrasound) : 人が機器に手を差し出したことを検出する
+ (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/ultrasound) 
+ : 人が機器に手を差し出したことを検出する
  
  - [infrared]
- (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/infrared) : 設置空間に人が侵入したことを検出する
+ (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/infrared) 
+ : 設置空間に人が侵入したことを検出する
  
  - [display]
- (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/display) : ディスプレイに画像を出力したり、音声データを再生したりする
+ (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/display) 
+ : ディスプレイに画像を出力したり、音声データを再生したりする
  
  - [servo]
- (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/servo) : 入力データポートの値に応じてサーボモータを動かす。
- 
+ (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/servo) 
+ : 入力データポートの値に応じてサーボモータを動かす。
+
 ## マニュアル
-　本コンポーネントの使用方法などは[こちら]
+　本コンポーネントの使用方法などはこちらから
  (https://github.com/alcoholshibaura/alcohol_shibaura/blob/master/%E8%AA%AC%E6%98%8E%E6%9B%B8.pdf)
 
 ## お問い合わせ
