@@ -27,23 +27,23 @@
 | ステンレスビス                  |           | 12本 |
 
 ## ソフトウェア
- - [center]
+ - center
  (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/center)　
  : 出力された情報に応じて各出力ポートから情報を出力する。
  
- - [ultrasound]
+ - ultrasound
  (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/ultrasound) 
  : 人が機器に手を差し出したことを検出する
  
- - [infrared]
+ - infrared
  (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/infrared) 
  : 設置空間に人が侵入したことを検出する
  
- - [display]
+ - display
  (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/display) 
  : ディスプレイに画像を出力したり、音声データを再生したりする
  
- - [servo]
+ - servo
  (https://github.com/alcoholshibaura/alcohol_shibaura/tree/master/servo) 
  : 入力データポートの値に応じてサーボモータを動かす。
 
