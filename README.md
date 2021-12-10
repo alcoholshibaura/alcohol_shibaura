@@ -52,4 +52,4 @@
  (https://github.com/alcoholshibaura/alcohol_shibaura/blob/master/%E8%AA%AC%E6%98%8E%E6%9B%B8.pdf)
 
 ## お問い合わせ
-email address : 17072@shibaura.com
+email address : 17072@shibaurafzk.com
